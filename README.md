@@ -28,10 +28,7 @@ const skills = {
 - Improving my **React Three Fiber** skills for advanced 3D web applications
 - Building desktop applications with **Rust** and **Tauri**
 - Exploring the intersection of hardware and software in creative projects
-
-### 🌱 Background
-
-My unique foundation in electronics and technology includes precision assembly, system testing, and quality control, which infuses my development work with attention to detail and reliability.
+- Developing and maintaining Nocta UI component library
 
 ### 📫 Let's Connect
 

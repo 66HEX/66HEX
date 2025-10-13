@@ -2,8 +2,6 @@
 
 i make stuff for the web — mostly react apps, 3d experiments, and ui components that actually feel good to use.
 
-got an electronics background, which probably explains why i care too much about performance and tiny visual details.
-
 ---
 
 ### what i'm working with
@@ -38,7 +36,7 @@ performance matters. accessibility matters. details matter.
 ```js
 const stack = {
   daily: ["typescript", "react", "next.js"],
-  visual: ["three.js", "react three fiber", "framer motion"],
+  visual: ["three.js", "react three fiber", "gsap"],
   exploring: ["rust", "tauri", "glsl shaders"],
   tools: ["vite", "git", "figma", "vs code"]
 };

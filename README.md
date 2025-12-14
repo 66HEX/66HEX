@@ -19,7 +19,6 @@ for animations, i bounce between **react three fiber**, **gsap**, and occasional
 - building interactive 3d hero sections for shadcnblocks.com
 - contributing ui components to 21st.dev (open react registry)
 - working on nocta ui, my own component library
-- building **lunarbase** — a rust-powered alternative to pocketbase
 
 ---
 

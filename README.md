@@ -1,43 +1,41 @@
 # hey, i'm hex
 
-i make stuff for the web — mostly react apps, 3d experiments, and ui components that actually feel good to use.
+i build for the web — mostly **svelte 5** these days, some react, 3d experiments, and ui components.
 
 ---
 
-### what i'm working with
+### what i'm into
 
-right now i'm deep into **react**, **typescript**, and **next.js**. also spending way too much time in **three.js** making things spin and look pretty.
+**svelte 5** is my main thing now. the reactivity model just clicks. still do **react** + **typescript** + **next.js** when needed. spending too much time making things spin in **three.js** and **react three fiber**/**Threelte**.
 
-lately i've been messing around with **rust** and **tauri** — it's refreshing to work closer to the metal sometimes.
-
-for animations, i bounce between **react three fiber**, **gsap**, and occasionally raw **glsl** when i want full control.
+lately: **rust** + **tauri** when i need speed, **gsap** for smooth animations, raw **glsl** when i want full control.
 
 ---
 
-### current projects
+### what i'm building
 
-- building interactive 3d hero sections for shadcnblocks.com
-- contributing ui components to 21st.dev (open react registry)
-- working on nocta ui, my own component library
+**motion core** — motion components for svelte 5. typography animations, 3d galleries, webgl stuff. built on gsap and three.js. distributed via cli.
+
+**nocta ui** — shadcn like component library for react. clean and performant.
+
+also contributing to **21st.dev** and building interactive 3d sections for **shadcnblocks.com**.
 
 ---
 
 ### how i think about code
 
-code should feel good, not just work. i care about the subtle stuff — smooth transitions, thoughtful interactions, that polish that makes you stop and go "oh, nice."
-
-performance matters. accessibility matters. details matter.
+if it doesn't look right, it's not done. smooth transitions, subtle interactions, the polish you notice. performance and accessibility aren't negotiable. details matter.
 
 ---
 
-### tech stuff
+### tech
 
 ```js
 const stack = {
-  daily: ["typescript", "react", "next.js"],
-  visual: ["three.js", "react three fiber", "gsap"],
-  exploring: ["rust", "tauri", "glsl shaders"],
-  tools: ["vite", "git", "figma", "vs code"]
+  daily: ["typescript", "react", "svelte 5", "next.js"],
+  visual: ["three.js", "react three fiber", "gsap", "glsl"],
+  exploring: ["rust", "tauri", "webgl"],
+  tools: ["vite", "git", "figma"]
 };
 ```
 
@@ -45,12 +43,13 @@ const stack = {
 
 ### let's talk
 
-if you're building something interesting with 3d on the web, or just want to chat about frontend stuff, hit me up. always down to see what people are making.
+if you're doing 3d on the web, building motion-heavy interfaces, or just want to chat about frontend — hit me up. always down to see what people are making.
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>

@@ -4,27 +4,13 @@ i build for the web — mostly **svelte 5** these days, some react, 3d experimen
 
 ---
 
-### what i'm into
-
-**svelte 5** is my main thing now. the reactivity model just clicks. still do **react** + **typescript** + **next.js** when needed. spending too much time making things spin in **three.js** and **react three fiber**/**Threelte**.
-
-lately: **rust** + **tauri** when i need speed, **gsap** for smooth animations, raw **glsl** when i want full control.
-
----
-
 ### what i'm building
 
-**motion core** — motion components for svelte 5. typography animations, 3d galleries, webgl stuff. built on gsap and three.js. distributed via cli.
+**motion core** — motion components for svelte 5.
 
-**nocta ui** — shadcn like component library for react. clean and performant.
+**frame** — media converter app with ml upscaling.
 
-also contributing to **21st.dev** and building interactive 3d sections for **shadcnblocks.com**.
-
----
-
-### how i think about code
-
-if it doesn't look right, it's not done. smooth transitions, subtle interactions, the polish you notice. performance and accessibility aren't negotiable. details matter.
+also contributed to **21st.dev** and **shadcnblocks.com**.
 
 ---
 
@@ -38,13 +24,6 @@ const stack = {
   tools: ["vite", "git", "figma"]
 };
 ```
-
----
-
-### let's talk
-
-if you're doing 3d on the web, building motion-heavy interfaces, or just want to chat about frontend — hit me up. always down to see what people are making.
-
 ---
 
 <p align="center">
@@ -52,7 +31,7 @@ if you're doing 3d on the web, building motion-heavy interfaces, or just want to
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Rust-F65214?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>

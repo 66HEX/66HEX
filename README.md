@@ -20,7 +20,7 @@ also contributed to **21st.dev** and **shadcnblocks.com**.
 const stack = {
   daily: ["typescript", "react", "svelte 5", "next.js"],
   visual: ["three.js", "react three fiber", "gsap", "glsl"],
-  exploring: ["rust", "tauri", "webgl"],
+  exploring: ["rust", "tauri", "webgpu"],
   tools: ["vite", "git", "figma"]
 };
 ```

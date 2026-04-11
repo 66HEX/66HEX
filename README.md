@@ -8,7 +8,7 @@ i build for the web — mostly **svelte 5** these days, some react, 3d experimen
 
 **motion core** — motion components for svelte 5.
 
-**motion gpu** — svelte-first pipeline for modern gpu visuals.
+**motion gpu** — minimalist webgpu framework.
 
 **frame** — media converter app with ml upscaling.
 

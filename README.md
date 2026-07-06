@@ -10,7 +10,7 @@ i build for the web — mostly **svelte 5** these days, some react, 3d experimen
 
 **motion gpu** — minimalist webgpu framework.
 
-**frame** — media converter app with ml upscaling.
+**frame** — aesthetic ffmpeg gui.
 
 also contributed to **21st.dev** and **shadcnblocks.com**.
 
@@ -21,8 +21,8 @@ also contributed to **21st.dev** and **shadcnblocks.com**.
 ```js
 const stack = {
   daily: ["typescript", "react", "svelte 5", "next.js"],
-  visual: ["three.js", "react three fiber", "gsap", "glsl"],
-  exploring: ["rust", "tauri", "webgpu"],
+  visual: ["three.js", "react three fiber", "gsap", "glsl", "wgsl"],
+  exploring: ["rust", "tauri"],
   tools: ["vite", "git", "figma"]
 };
 ```

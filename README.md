@@ -6,13 +6,13 @@ i build for the web — mostly **svelte 5** these days, some react, 3d experimen
 
 ### what i'm building
 
+**frame** — aesthetic ffmpeg gui.
+
 **motion core** — motion components for svelte 5.
 
 **spektral** — minimalist webgpu framework.
 
-**frame** — aesthetic ffmpeg gui.
-
-also contributed to **21st.dev** and **shadcnblocks.com**.
+**hasta** — pointer movement predictor.
 
 ---
 
